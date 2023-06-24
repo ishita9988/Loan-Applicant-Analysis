@@ -24,4 +24,4 @@ This is an Excel project on loan applicant aimed at analyzing the applicant info
 
 ## Visualization
 
-![](loan_applicant_dashboard.png)
+<img width="559" alt="loan_applicant_dashboard" src="https://github.com/ishita9988/Loan-Applicant-Analysis/assets/129153274/795abd61-6aab-489b-b565-b4cbb1b6607a">
